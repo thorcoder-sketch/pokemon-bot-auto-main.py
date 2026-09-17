@@ -9,7 +9,7 @@ target_bot_entity = None
 
 api_id = '39300763'     
 api_hash = 'ff7e61213afea67d31fa33d7e667e659'    
-session_name = 'bish_session'
+session_name = 'bish.session'
 client = TelegramClient(session_name, api_id, api_hash)
 
 last_hunt_sent_time = 0
